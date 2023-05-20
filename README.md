@@ -15,7 +15,7 @@
     </td>
     <td width="50%">
   </a>
-    <p style="color: white;">Este é o repositorio utilizado na matéria de Desenvolvimento de Aplicações WEB em 2022 do curso de Sistemas de Informações da Universidade MaterDei (UNIMATER), ministrada pelo professor Liborio</p>
+    <p style="color: white;" href="https://github.com/DanielScabeni/DAW-2022">Repositorio utilizado na matéria de Desenvolvimento de Aplicações WEB em 2022 do curso de Sistemas de Informações da Universidade MaterDei (UNIMATER), ministrada pelo professor Liborio</p>
     </td>
   </tr>
 </table>
