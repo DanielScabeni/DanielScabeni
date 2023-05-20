@@ -15,7 +15,7 @@
     </td>
     <td width="50%">
   </a>
-    <p style="color: white;" href="https://github.com/DanielScabeni/DAW-2022">Repositorio utilizado na matéria de Desenvolvimento de Aplicações WEB em 2022 do curso de Sistemas de Informações da Universidade MaterDei (UNIMATER), ministrada pelo professor Liborio</p>
+    <p style="color: white;" href="https://github.com/DanielScabeni/DAW-2022">Este é o Repositorio utilizado na matéria de Desenvolvimento de Aplicações WEB em 2022 do curso de Sistemas de Informações da Universidade MaterDei (UNIMATER), ministrada pelo professor Liborio</p>
     </td>
   </tr>
 </table>
@@ -29,7 +29,7 @@
     </td>
     <td width="50%">
   </a>
-    <p style="color: white;">Este é o repositorio </p>
+    <p style="color: white;">O projeto Integrador de IOT foi desenvolvido pelos alunos: Amanda Martarello, Daniel Santos e Vitória Castanha e nomeado de ADV, foi feito com o objetivo de automatizar o uso de um umidificador, através de sensores que com base na temperatura e umidade ajustam o  funcionamento ideal do Umidificador. Acadêmicos do curso de Sistemas de Informação do Centro Universitário Unimater de 🦆Pato Branco🦆 (PR).</p>
     </td>
   </tr>
 </table>
