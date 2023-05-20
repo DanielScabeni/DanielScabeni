@@ -1,4 +1,11 @@
-### Hi there 👋
+| [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanielScabeni&show_icons=true&card_width=300&theme=chartreuse-dark)](https://github.com/DanielScabeni) | [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanielScabeni&show_icons=true&card_width=130&theme=dark#gh-dark-mode-only)](https://github.com/DanielScabeni) |
+| --- | --- |
+
+#
+
+| [![Card 1](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielScabeni&layout=donut-vertical&theme=dark)](https://github.com/DanielScabeni) | [![Card 2](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielScabeni&langs_count=8&theme=dark)](https://github.com/DanielScabeni) | [![Card 3](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielScabeni&layout=pie&theme=dark)](https://github.com/DanielScabeni) |
+| --- | --- | --- |
+
 
 <!--
 **DanielScabeni/DanielScabeni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
