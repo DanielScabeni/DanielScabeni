@@ -4,28 +4,24 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielscabeni&label=Profile%20views&color=0e75b6&style=flat" alt="danielscabeni" /> </p>
 
-<table>
-  <tr>
-    <td>
-      - 🌱 I’m currently learning **React, Javascript, Flutter**
-    </td>
-    <td valign="middle">
-      <h3 align="left">Connect with me:</h3>
-    </td>
-    <td>
-      <p align="left">
+ - 🌱 I’m currently learning **React, Javascript, Flutter**
+
+<h3 align="left">Connect with me:</h3>
+
+<p align="left">
         <a href="https://twitter.com/tocha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tocha" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/danielscabeni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danielscabeni" height="30" width="40" /></a>
 <a href="https://instagram.com/danielscabeni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="danielscabeni" height="30" width="40" /></a>
 <a href="https://discord.gg/!tochapado#0569" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="!tochapado#0569" height="30" width="40" /></a>
       </p>
-    </td>
-  </tr>
-</table>
 
 
 | [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanielScabeni&show_icons=true&card_width=300&theme=chartreuse-dark)](https://github.com/DanielScabeni) | [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanielScabeni&show_icons=true&card_width=130&theme=midnight-purple#gh-dark-mode-only)](https://github.com/DanielScabeni) |
 | --- | --- |
+
+| [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanielScabeni&show_icons=true&card_width=300&theme=chartreuse-dark)](https://github.com/DanielScabeni) | - 🌱 I’m currently learning **React, Javascript, Flutter**<br><br><h3 align="left">Connect with me:</h3><p align="left"><a href="https://twitter.com/tocha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tocha" height="30" width="40" /></a><a href="https://linkedin.com/in/danielscabeni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danielscabeni" height="30" width="40" /></a><a href="https://instagram.com/danielscabeni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="danielscabeni" height="30" width="40" /></a><a href="https://discord.gg/!tochapado#0569" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="!tochapado#0569" height="30" width="40" /></a></p> |
+| --- | --- |
+
 
 | [![Card 1](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielScabeni&layout=donut-vertical&theme=chartreuse-dark)](https://github.com/DanielScabeni) | [![Card 2](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielScabeni&langs_count=8&theme=chartreuse-dark)](https://github.com/DanielScabeni) | [![Card 3](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielScabeni&layout=pie&theme=chartreuse-dark)](https://github.com/DanielScabeni) |
 | --- | --- | --- |
