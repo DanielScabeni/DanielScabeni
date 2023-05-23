@@ -60,9 +60,9 @@
   </tr>
 </table>
 
-![Snake animation](https://github.com/MarcoAndradee/MarcoAndradee/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/DanielScabeni/MarcoAndradee/blob/output/github-contribution-grid-snake.svg)
 
-<p align="center"> <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="rafael-barbosa" /></p> 
+<p align="center"> <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="DanielScabeni" /></p> 
 
 
 <!--
