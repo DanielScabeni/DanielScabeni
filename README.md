@@ -60,7 +60,7 @@
   </tr>
 </table>
 
-![Snake animation](https://github.com/DanielScabeni/MarcoAndradee/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/DanielScabeni/DanielScabeni/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center"> <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="DanielScabeni" /></p> 
 
