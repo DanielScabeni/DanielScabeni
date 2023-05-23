@@ -1,17 +1,14 @@
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/DanielScabeni/DanielScabeni/master/name.svg" alt="Daniel Scabeni" />
 </h1>
-
+<!--
 <h1 align="center">Hi <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" alt="hi" width="40" height="40"/>, I'm Daniel Scabeni</h1>
+-->
+<h3 align="center">Hi <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" alt="hi" width="40" height="40"/>, I'm Daniel Scabeni, and I'm an enthusiastic developer from Brazil getting started on my career journey, eager to learn and grow in the field.</h3>
 
-<h3 align="center">I'm an enthusiastic developer from Brazil getting started on my career journey, eager to learn and grow in the field.</h3>
-
-<!-- Nothing weird to see here -->
 <p align="center">
   <a href="https://readme.andyruwruw.com/api/now-playing?open">
-    <!-- Music bars move to the beat and are colored based on the track's happiness, danceability and energy! -->
     <img src="https://readme.andyruwruw.com/api/now-playing">
-    <!-- This is how you'd make the call dynamically <img src="https://readme.andyruwruw.com/api/now-playing"> -->
   </a>
 </p>
 
