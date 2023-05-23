@@ -1,9 +1,11 @@
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1 align="center">Hi <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" alt="hi" width="40" height="40"/>, I'm Daniel Scabeni</h1>
 
 <h3 align="center">I'm an enthusiastic developer from Brazil getting started on my career journey, eager to learn and grow in the field.</h3>
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielscabeni&label=Profile%20views&color=0e75b6&style=flat" alt="danielscabeni" /> </p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 | [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanielScabeni&show_icons=true&card_width=300&theme=chartreuse-dark)](https://github.com/DanielScabeni) | - 🌱 I’m currently learning **HTML, CSS, Javascript, React, Flutter, Python, C++**<br><br><h3 align="left">Connect with me:</h3><p align="left"><a href="https://twitter.com/tocha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tocha" height="30" width="40" /></a><a href="https://linkedin.com/in/danielscabeni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danielscabeni" height="30" width="40" /></a><a href="https://instagram.com/danielscabeni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="danielscabeni" height="30" width="40" /></a><a href="https://discord.gg/!tochapado#0569" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="!tochapado#0569" height="30" width="40" /></a></p> |
 | --- | --- |
@@ -58,6 +60,9 @@
   </tr>
 </table>
 
+![Snake animation](https://github.com/MarcoAndradee/MarcoAndradee/blob/output/github-contribution-grid-snake.svg)
+
+<p align="center"> <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="rafael-barbosa" /></p> 
 
 
 <!--
